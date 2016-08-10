@@ -1,0 +1,10 @@
+img{
+    width: 100%;
+}
+.logo {
+    max-width: 300px;
+    max-height: 100px;
+}
+.temp-img{
+    max-width: 500px;
+}
